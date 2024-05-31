@@ -28,3 +28,7 @@ body {
     display: flex;
     justify-content: space-between;
 }
+.centered-link {
+    display: block;
+    text-align: center;
+}
