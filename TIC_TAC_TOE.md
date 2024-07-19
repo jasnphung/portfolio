@@ -13,33 +13,33 @@ This project is a Tic Tac Toe game built with HTML, CSS, JavaScript, and PHP.
 - Falling X's and O's animation
 
 ## Design System
-For detailed information about the design system used in this project, please refer to the [Design System](docs/design_system.md).
+For detailed information about the design system used in this project, please refer to the [Design System](projects/Tic%20Tac%20Toe/docs/design_system.md).
 
 ## Screenshots
 
 ### Initial Game Interface
 
-![Initial Interface](docs/design_system/assets/v2/initial_interface.png)
+![Initial Interface](projects/Tic%20Tac%20Toe/docs/design_system/assets/v2/initial_interface.png)
 
 ### Rules
 
-![Rules](docs/design_system/assets/v2/rules.png)
+![Rules](projects/Tic%20Tac%20Toe/docs/design_system/assets/v2/rules.png)
 
 ### Player vs Player Mode
 
-![Player vs Player](docs/design_system/assets/v2/player_vs_player.png)
+![Player vs Player](projects/Tic%20Tac%20Toe/docs/design_system/assets/v2/player_vs_player.png)
 
 ### Player vs Computer Mode
 
-![Player vs Computer](docs/design_system/assets/v2/player_vs_computer.png)
+![Player vs Computer](projects/Tic%20Tac%20Toe/docs/design_system/assets/v2/player_vs_computer.png)
 
 ### Winning state
 
-![Winning state](docs/design_system/assets/v2/winning_state.png)
+![Winning state](projects/Tic%20Tac%20Toe/docs/design_system/assets/v2/winning_state.png)
 
 ### It's a tie state
 
-![Tie state](docs/design_system/assets/v2/tie_state.png)
+![Tie state](projects/Tic%20Tac%20Toe/docs/design_system/assets/v2/tie_state.png)
 
 ## How to Play
 1. Start the game by clicking on any cell.
@@ -48,7 +48,7 @@ For detailed information about the design system used in this project, please re
 
 ## Setup
 To run this project locally with the PHP component:
-1. Clone the repository.
+1. Clone the [repository](https://github.com/jtrshy/tic-tac-toe/).
 2. Navigate to the project location within CMD.
 3. Use: php -S localhost:9000
 4. Navigate to http://localhost:9000 in your web browser.
