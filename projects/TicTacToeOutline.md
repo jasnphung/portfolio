@@ -1,5 +1,7 @@
 # Tic Tac Toe Technical and Visual Outline
 
+For the project itself, visit the [GitHub folder](https://github.com/jtrshy/portfolio/tree/main/projects/Tic%20Tac%20Toe).
+
 ## Technical Outline
 
 Tic Tac Toe is a simple game where a player tries to achieve 3 X's or O's in a row, column, or diagonally.
@@ -10,7 +12,7 @@ We have recreated the game in a web applications using the following technologie
 3. PHP for server side interactions
 4. PostgreSQL for managing data
 
-The project was made for CSI 3140, the WWW. Struc. Techn. & Standards course at the University of Ottawa. It went through 4 primary iterations, each corresponding with assignments 1 to 4.
+The project was made for CSI 3140, the WWW Struc Techn & Standards course at the University of Ottawa. It went through 4 primary iterations, each corresponding with assignments 1 to 4.
 
 ### Features
 - Player vs Player gameplay
